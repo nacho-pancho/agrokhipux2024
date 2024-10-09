@@ -1,0 +1,3 @@
+[submodule "material/witz"]
+	path = material/witz
+	url = git@github.com:guiwitz/PyImageCourse_beginner.git
